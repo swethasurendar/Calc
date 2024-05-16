@@ -1,6 +1,5 @@
 # Ex.08 Design of a Standard Calculator
-## Date:26.04.2024
-
+## Date:
 ## AIM:
 To design a web application for a standard calculator with minimum five operations.
 
@@ -103,9 +102,10 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-26 005753.png>)
-![alt text](<Screenshot 2024-04-26 005812.png>)
-![alt text](<Screenshot 2024-04-26 010001.png>)
+![d885d4db-553e-4e8e-8b2f-9f4358fe813c](https://github.com/swethasurendar/Calc/assets/133625914/de18a7a6-fc2e-407c-9412-3cdef32bc2c3)
+![9d57a0a3-8b58-466f-ace0-0721cb6cef49](https://github.com/swethasurendar/Calc/assets/133625914/6fc077f4-af07-4033-af5f-1cd195e341e9)
+
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
